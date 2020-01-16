@@ -12,7 +12,7 @@ document.addEventListener('keyup',keyUp);
 
 
 let keys = {ArrowUp : false, ArrowDown : false, ArrowRight : false, ArrowLeft: false}
-let player = { speed : 5, score :0 };
+let player = { speed : 8, score :0 };
 
 
 
